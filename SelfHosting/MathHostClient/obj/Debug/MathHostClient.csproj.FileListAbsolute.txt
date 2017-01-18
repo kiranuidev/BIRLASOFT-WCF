@@ -1,0 +1,5 @@
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHostClient\bin\Debug\MathHostClient.exe
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHostClient\bin\Debug\MathHostClient.pdb
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHostClient\obj\Debug\MathHostClient.csprojResolveAssemblyReference.cache
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHostClient\obj\Debug\MathHostClient.exe
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHostClient\obj\Debug\MathHostClient.pdb

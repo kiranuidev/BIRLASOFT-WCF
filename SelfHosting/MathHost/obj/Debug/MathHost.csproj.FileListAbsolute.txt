@@ -1,0 +1,4 @@
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHost\bin\Debug\MathHost.exe
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHost\bin\Debug\MathHost.pdb
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHost\obj\Debug\MathHost.exe
+E:\October\BirlaSoft-Dotnet\SelfHosting\MathHost\obj\Debug\MathHost.pdb
